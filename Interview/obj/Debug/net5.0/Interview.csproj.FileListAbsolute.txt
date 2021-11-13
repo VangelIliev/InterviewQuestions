@@ -785,3 +785,4 @@ C:\InterviewQuestions\Interview\obj\Debug\net5.0\ref\Interview.dll
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.pdb
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.genruntimeconfig.cache
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.csproj.CopyComplete
+C:\InterviewQuestions\Interview\obj\Debug\net5.0\Razor\Views\LogIn\LogIn.cshtml.g.cs

@@ -26,8 +26,15 @@ using Interview.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\InterviewQuestions\Interview\Views\_ViewImports.cshtml"
+using Interview.Models.AuthenticationModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f8792cb0bf5ec2ef8b4ccd6bd461347b8c473b4e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"722bcae1004c4e4b6ddc9ff6e4aa44a192e8c41c", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

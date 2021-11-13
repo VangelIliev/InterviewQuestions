@@ -1,0 +1,14 @@
+﻿@model LogInViewModel
+<form asp-action="LogIn" asp-controller="LogIn">
+    <div class="form-group">
+        <label asp-for="Email">Имейл</label>
+        <br />
+        <input asp-for="Email">       
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Парола</label>
+        <br />
+        <input asp-for="Password">
+    </div>   
+    <button type="submit" class="btn btn-primary">Вход</button>
+</form>
