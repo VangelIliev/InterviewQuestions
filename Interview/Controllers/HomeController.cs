@@ -17,11 +17,12 @@ namespace Interview.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-        }        
+        }
+        
         [HttpGet]
-        public IActionResult Home()
+        public IActionResult Initial()
         {
-            return View();
+            return View("Index");
         }
     }
 }
