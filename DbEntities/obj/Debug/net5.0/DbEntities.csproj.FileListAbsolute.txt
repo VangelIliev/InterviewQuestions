@@ -1,0 +1,15 @@
+C:\Interview\DbEntities\bin\Debug\net5.0\DbEntities.deps.json
+C:\Interview\DbEntities\bin\Debug\net5.0\DbEntities.runtimeconfig.json
+C:\Interview\DbEntities\bin\Debug\net5.0\DbEntities.runtimeconfig.dev.json
+C:\Interview\DbEntities\bin\Debug\net5.0\DbEntities.dll
+C:\Interview\DbEntities\bin\Debug\net5.0\ref\DbEntities.dll
+C:\Interview\DbEntities\bin\Debug\net5.0\DbEntities.pdb
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.csproj.AssemblyReference.cache
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.AssemblyInfoInputs.cache
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.AssemblyInfo.cs
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.csproj.CoreCompileInputs.cache
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.dll
+C:\Interview\DbEntities\obj\Debug\net5.0\ref\DbEntities.dll
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.pdb
+C:\Interview\DbEntities\obj\Debug\net5.0\DbEntities.genruntimeconfig.cache
