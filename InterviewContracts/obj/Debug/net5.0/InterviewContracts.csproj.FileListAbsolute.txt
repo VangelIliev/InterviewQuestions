@@ -1,0 +1,15 @@
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\InterviewContracts.deps.json
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\InterviewContracts.dll
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\ref\InterviewContracts.dll
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\InterviewContracts.pdb
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\Models.dll
+C:\InterviewQuestions\InterviewContracts\bin\Debug\net5.0\Models.pdb
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.csproj.AssemblyReference.cache
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.AssemblyInfoInputs.cache
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.AssemblyInfo.cs
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.csproj.CoreCompileInputs.cache
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.csproj.CopyComplete
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.dll
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\ref\InterviewContracts.dll
+C:\InterviewQuestions\InterviewContracts\obj\Debug\net5.0\InterviewContracts.pdb

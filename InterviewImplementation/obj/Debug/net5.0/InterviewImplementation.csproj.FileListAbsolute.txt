@@ -1,0 +1,12 @@
+C:\InterviewQuestions\InterviewImplementation\bin\Debug\net5.0\InterviewImplementation.deps.json
+C:\InterviewQuestions\InterviewImplementation\bin\Debug\net5.0\InterviewImplementation.dll
+C:\InterviewQuestions\InterviewImplementation\bin\Debug\net5.0\ref\InterviewImplementation.dll
+C:\InterviewQuestions\InterviewImplementation\bin\Debug\net5.0\InterviewImplementation.pdb
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.csproj.AssemblyReference.cache
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.AssemblyInfoInputs.cache
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.AssemblyInfo.cs
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.csproj.CoreCompileInputs.cache
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.dll
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\ref\InterviewImplementation.dll
+C:\InterviewQuestions\InterviewImplementation\obj\Debug\net5.0\InterviewImplementation.pdb
