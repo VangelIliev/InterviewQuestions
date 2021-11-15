@@ -19,7 +19,6 @@ C:\InterviewQuestions\DbEntities\bin\Debug\net5.0\DbEntities.runtimeconfig.dev.j
 C:\InterviewQuestions\DbEntities\bin\Debug\net5.0\DbEntities.dll
 C:\InterviewQuestions\DbEntities\bin\Debug\net5.0\ref\DbEntities.dll
 C:\InterviewQuestions\DbEntities\bin\Debug\net5.0\DbEntities.pdb
-C:\InterviewQuestions\DbEntities\obj\Debug\net5.0\DbEntities.csproj.AssemblyReference.cache
 C:\InterviewQuestions\DbEntities\obj\Debug\net5.0\DbEntities.GeneratedMSBuildEditorConfig.editorconfig
 C:\InterviewQuestions\DbEntities\obj\Debug\net5.0\DbEntities.AssemblyInfoInputs.cache
 C:\InterviewQuestions\DbEntities\obj\Debug\net5.0\DbEntities.AssemblyInfo.cs
