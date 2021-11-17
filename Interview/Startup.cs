@@ -44,6 +44,8 @@ namespace Interview
             services.AddControllersWithViews();
             services.AddAntiforgery();
             services.AddControllers();
+            services.AddAntiforgery();
+            services.AddAutoMapper(typeof(Mapping.AutoMapping));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
