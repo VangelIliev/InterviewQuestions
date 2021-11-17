@@ -831,3 +831,5 @@ C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.dll
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\ref\Interview.dll
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.pdb
 C:\InterviewQuestions\Interview\obj\Debug\net5.0\Interview.genruntimeconfig.cache
+C:\InterviewQuestions\Interview\bin\Debug\net5.0\AutoMapper.dll
+C:\InterviewQuestions\Interview\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
