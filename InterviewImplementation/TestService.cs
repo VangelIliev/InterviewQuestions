@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using DbEntities.DBContext;
+using DbEntities.Entities;
 using InterviewContracts;
+using Microsoft.EntityFrameworkCore;
 using Models;
 using System;
 using System.Collections.Generic;
@@ -18,34 +20,53 @@ namespace InterviewImplementation
             this._context = context;
         }
 
-        public Task<Guid> CreateAsync(TestServiceModel entity)
+        public async Task<Guid> CreateAsync(TestServiceModel entity)
         {
-            throw new NotImplementedException();
+            var test = this._autoMapper.Map<Test>(entity);
+            this._context.Tests.Add(test);
+            await this._context.SaveChangesAsync();
+            return test.Id;
         }
 
-        public Task DeleteAsync(TestServiceModel entity)
+        public async Task DeleteAsync(TestServiceModel entity)
         {
-            throw new NotImplementedException();
+            var test = this._autoMapper.Map<Test>(entity);
+            this._context.Tests.Remove(test);
+            await this._context.SaveChangesAsync();
         }
 
-        public Task DeleteAsync(Guid id)
+        public async Task DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var dbtest = await this._context.Tests.FindAsync(id);
+            if (dbtest != null)
+            {
+                this._context.Tests.Remove(dbtest);
+                await this._context.SaveChangesAsync();
+            }
         }
 
-        public Task<List<TestServiceModel>> FindAllAsync()
+        public async Task<List<TestServiceModel>> FindAllAsync()
         {
-            throw new NotImplementedException();
+            var tests = await this._context.Tests.AsNoTracking().ToListAsync();
+            var testsServiceModels = this._autoMapper.Map<List<TestServiceModel>>(tests);
+            return await Task.FromResult(testsServiceModels);
         }
 
-        public Task<TestServiceModel> ReadAsync(Guid id)
+        public async Task<TestServiceModel> ReadAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var tests = await this._context.Tests.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+            var testsServiceModels = this._autoMapper.Map<TestServiceModel>(tests);
+            return testsServiceModels;
         }
 
-        public Task UpdateAsync(TestServiceModel entity)
+        public async Task UpdateAsync(TestServiceModel entity)
         {
-            throw new NotImplementedException();
+            var test = await this._context.QuestionAnswers.FindAsync(entity.Id);
+            if (test != null)
+            {
+                var dbEntity = this._autoMapper.Map<Test>(entity);
+                this._context.Update(dbEntity);
+            }
         }
     }
 }
